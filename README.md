@@ -3,3 +3,4 @@
 <h3 align="center">Android developer from Saint-Petersburg</h3>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aNOOBis666&theme=dracula"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aNOOBis666&theme=dracula"/>
